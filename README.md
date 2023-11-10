@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+### Screen Shot
+<img src="https://github.com/byldh124/toonflix/assets/78577050/e0e4cf3f-dd1c-4cf1-9ea4-c1aa3c867f77" width="25%">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
